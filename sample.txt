@@ -6,3 +6,6 @@ testing 2
 
 rai test 3
 rai test 4
+
+rai sync 5
+rai sync 6
